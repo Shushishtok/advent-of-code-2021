@@ -41,12 +41,3 @@ export function solution(input: string): {
 
 	return { result1: result1Count, result2: result2Count };
 }
-
-// 100 [0]
-// 105 [1]
-// 180 [2]
-
-// length: 3
-
-// 2 < 3 works
-// 3 < 3 not works
